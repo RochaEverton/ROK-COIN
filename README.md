@@ -19,7 +19,7 @@ ROK Coin is a fungible token created using the ERC20 standard on the Ethereum-co
 
 Below is a screenshot of the first transaction made with the ROK Coin:
 
-![Transaction Screenshot](URL_TO_IMAGE)
+![Transaction Screenshot](https://github.com/RochaEverton/ROK-COIN/blob/main/Images/Fuji%20Explorer.PNG)
 
 ---
 ## Features
