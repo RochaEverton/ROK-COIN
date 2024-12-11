@@ -79,7 +79,7 @@ Below is a screenshot of the first transaction made with the ROK Coin:
 
 The screenshot below shows the ROK Coin successfully added and received in Metamask:
 
-![ROK Coin in Metamask](Images/Metamask_ROK.PNG)
+![ROK Coin in Metamask](https://github.com/RochaEverton/ROK-COIN/blob/main/Images/Metamask.png)
 
 ---
 ## Token Contract Code
