@@ -15,13 +15,6 @@ ROK Coin is a fungible token created using the ERC20 standard on the Ethereum-co
 - **Holders**: 1  
 
 ---
-## Transaction Screenshot
-
-Below is a screenshot of the first transaction made with the ROK Coin:
-
-![Transaction Screenshot](https://github.com/RochaEverton/ROK-COIN/blob/main/Images/Fuji%20Explorer.PNG)
-
----
 ## Features
 
 1. **ERC20 Compliance**: Adheres to the ERC20 token standard.
@@ -42,6 +35,12 @@ Below is a screenshot of the first transaction made with the ROK Coin:
 ## Deployment Details
 
 The transaction hash of the deployment is `0xdc54f...31c7e`, with an initial transfer of 1,000 ROK tokens to the address `0x40830...fa72b5`. The screenshot above reflects the first and only transaction as of now.
+
+### Contract Deployment on Remix IDE
+
+Below is a screenshot of the execution and deployment of the ROK Coin token contract using Remix IDE:
+
+![Deployment on Remix IDE](https://github.com/RochaEverton/ROK-COIN/blob/main/Images/Deploy.PNG)
 
 ---
 
@@ -69,7 +68,20 @@ To interact with this token, you need:
 Visit the [Fuji Explorer](https://explorer.testnet.avax.network/) and search for the contract address or the transaction hash.
 
 ---
+## Transaction Screenshot
 
+Below is a screenshot of the first transaction made with the ROK Coin:
+
+![Transaction Screenshot](https://github.com/RochaEverton/ROK-COIN/blob/main/Images/Fuji%20Explorer.PNG)
+
+---
+### ROK Coin in Metamask
+
+The screenshot below shows the ROK Coin successfully added and received in Metamask:
+
+![ROK Coin in Metamask](Images/Metamask_ROK.PNG)
+
+---
 ## Token Contract Code
 
 The ROK Coin's source code follows the ERC20 standard. Below is the full implementation used for the creation of this token:
